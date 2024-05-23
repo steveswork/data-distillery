@@ -57,7 +57,7 @@
     "test:watch": "jest --updateSnapshot --watchAll"
   },
   "types": "dist/index.d.ts",
-  "version": "0.0.1",
+  "version": "0.0.6",
   "dependencies": {
     "@webkrafters/data-distillery": "^0.0.3"
   }
